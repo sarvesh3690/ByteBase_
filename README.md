@@ -1,4 +1,4 @@
-# Student and Teacher Management System
+# Student and Teacher Management System (ByteBase)
 
 ## Project Description
 The **Student and Teacher Management System** is a web-based platform designed to streamline the management and interaction between students, teachers, and administrators in an educational institution. The system provides role-based dashboards and functionalities, including access to academic data, resource uploads/downloads, a built-in Java code editor, and secure authentication and authorization mechanisms.
